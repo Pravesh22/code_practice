@@ -1,6 +1,5 @@
 """
 -- Created by Pravesh Budhathoki
--- Treeleaf Technologies Pvt. Ltd.
 -- Created on 2023-06-28
 """
 
