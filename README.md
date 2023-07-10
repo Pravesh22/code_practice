@@ -1,5 +1,5 @@
 # Code_practice
-Code practice solution from leetcode or hackerrank
+Code practice solution from leetcode
 
 # Problems and Links
 
